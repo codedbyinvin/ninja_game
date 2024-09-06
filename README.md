@@ -6,7 +6,7 @@ This is a simple ninja game made by me following the tutorial of [DAFLUFFYPOTATO
 ![Game image](image.png)
 
 
-It's a game made the pygame library in python. 
+It's a game made with the pygame library in python. 
 
 You can play the game by running the `game.py` file or by running the `game.exe` as follows:
 

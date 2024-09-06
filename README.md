@@ -1,5 +1,5 @@
 ## NINJA GAME from DAFLUFFYPOTATO's tutorial
-I made this game by me following [DAFLUFFYPOTATO](https://www.youtube.com/@DaFluffyPotato)'s tutorial.
+I made this game by following [DAFLUFFYPOTATO](https://www.youtube.com/@DaFluffyPotato)'s tutorial.
 
 
 ### Game image
